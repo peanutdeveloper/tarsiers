@@ -1,0 +1,6 @@
+3/27/23 - Adding stuff to the map update
+
+
+- added trees and walls to forest
+
+- added motd board
