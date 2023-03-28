@@ -1,8 +1,6 @@
-3/28/23 - Part 1/2
+3/28/23 - Part 1/2 of the
 
-of the cool update
+cool update
 
 
-- added player
-
-model
+- added player model
