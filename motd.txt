@@ -1,10 +1,8 @@
-3/27/23 - Adding stuff to
+3/28/23 - Part 1/2
 
-the map update
+of the cool update
 
 
-- added trees
+- added player
 
-- added double walls
-
-- added motd board
+model
